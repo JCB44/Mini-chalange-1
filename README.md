@@ -1,1 +1,1 @@
-# Mini-chalange-1
+# mini-chalange-1
